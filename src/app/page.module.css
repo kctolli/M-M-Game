@@ -1,0 +1,30 @@
+.list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  font-size: 20px;
+}
+
+.red {
+  color: #b11224;
+}
+
+.orange {
+  color: #f26f22;
+}
+
+.yellow {
+  color: #fff200;
+}
+
+.blue {
+  color: #2f9fd7;
+}
+
+.brown {
+  color: #603a34;
+}
+
+.green {
+  color: #31ac55;
+}
